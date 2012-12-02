@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hsming
-tagline:
+tagline:暂时简陋，以后未知
 ---
 {% include JB/setup %}
 
