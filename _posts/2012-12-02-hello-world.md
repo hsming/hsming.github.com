@@ -1,8 +1,11 @@
 ---
 layout: post
 title: "Hello World"
-description: ""
+description: "The first blog."
 category: 
-tags: []
+tags: [balabala]
 ---
 {% include JB/setup %}
+
+The first blog here. Congratulations.
+Uh, the style is default still, after all it works well. 
