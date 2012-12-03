@@ -5,6 +5,21 @@ html, body {
 .navbar {
   margin-bottom: 0;
 }
+
+.container{
+	width:800px;
+}
+.span12, .container{
+	width: 800px;
+}
+.span8{
+	width: 600px;
+	margin-left: 40px;
+}
+.span4{
+	width: 120px;
+	margin-left: 60px;
+}
 .container > footer {
   margin-top: 20px;
 }
@@ -68,4 +83,8 @@ html, body {
 	border:1px solid #4C964D;
 	color:#FFF;
 }
-	
+.article{
+	height: 430px;
+	width: 775px;
+	overflow: hidden;
+}

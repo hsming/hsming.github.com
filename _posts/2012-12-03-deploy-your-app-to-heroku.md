@@ -30,6 +30,8 @@ then :
 	$ bundle install
 
 #### 2.Store your app in Git：
+<br />
+like this:
 
 	$ git init 
 	$ git add .
