@@ -9,4 +9,42 @@ tags: [balabala]
 
 The first blog here. Congratulations.
 Uh, the style is default still, after all it works well. 
+
 好像首页不能出现中文？不是吧
+
+---------------------------------------
+
+Read more:<http://hsming.github.com/>
+
+[About me](http://hsming.github.com/)
+
+
+---------------------------------------
+`Code : Hello World!`
+
+Code:
+		
+		printf "Hello World!"
+
+Code:
+
+	print "Hello World!"
+---------------------------------------
+List:
+- list1
+- list2
+
+
+---------------------------------------
+# size
+## size
+### size
+#### size
+##### size
+---------------------------------------
+
+*size*
+
+**size**
+
+***size***
