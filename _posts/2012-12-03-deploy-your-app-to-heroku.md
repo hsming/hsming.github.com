@@ -55,5 +55,5 @@ Deploy your code:
 Now open your Heroku site in your default web browser:
 
 	$ heroku open
-Your app will be running at http://my_app.herokuapp.com
+Your app will be running at http://my_app.herokuapp.com         ^_^
 
