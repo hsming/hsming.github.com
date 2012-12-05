@@ -63,3 +63,13 @@ Getting more help:
 <https://devcenter.heroku.com/articles/rails3>
 
 <http://railsapps.github.com/rails-heroku-tutorial.html>
+
+If you got the error when you push your app to heroku like this:
+
+	Permission denied (publickey).
+	fatal: The remote end hung up unexpectedly
+You can try :
+
+	$ heroku keys:add
+
+It may work sometimes, through i don't know the reason really.

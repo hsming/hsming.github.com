@@ -88,3 +88,16 @@ html, body {
 	width: 775px;
 	overflow: hidden;
 }
+.discovery{
+	height: 0px;
+	overflow: hidden;
+}
+.discovery-main{
+	height: 0px;
+	overflow: hidden;
+}
+
+.discovery-content-wrap{
+	height: 0px;
+	overflow: hidden;
+}
