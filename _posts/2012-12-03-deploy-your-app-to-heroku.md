@@ -60,6 +60,8 @@ Now open your Heroku site in your default web browser:
 Your app will be running at http://my_app.herokuapp.com         ^_^
 
 #### 6.Getting more help:
+
+
 <https://devcenter.heroku.com/articles/rails3>
 
 <http://railsapps.github.com/rails-heroku-tutorial.html>
