@@ -62,10 +62,13 @@ Your app will be running at http://my_app.herokuapp.com         ^_^
 #### 6.Getting more help
 :
 <https://devcenter.heroku.com/articles/rails3>
-<br />
+
 :
 <http://railsapps.github.com/rails-heroku-tutorial.html>
-<br /> <br />
+
+
+
+
 ----------------------------------------------------------------------
 If you got the error when you push your app to heroku like this:
 
