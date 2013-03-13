@@ -8,13 +8,15 @@ a:hover {
 
 h1 {
 	margin: 20px 0px 0px 0px;
-	font-size: 35px;
+	font-size: 3em;
+	font-family: 'Skranji', cursive,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 nav {
 	padding-top: 20px;
 	margin-left: -25px;
-	font-size: 15px;
+	font-family: 'Patrick Hand SC', cursive,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 1.5em;
 }
 nav li {
 	display: inline;
@@ -25,6 +27,9 @@ nav a {
 }
 nav a:hover {
 	color: #7e7e7e;
+}
+nav i {
+	margin-top: 8px;
 }
 
 html, body {
