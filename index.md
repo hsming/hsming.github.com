@@ -7,9 +7,9 @@ tagline:
 
 
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li>
+
+{% for post in site.posts %}
+  <div class="posts">
       <h2>
       	<a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
       	<span style="float:right">
@@ -19,15 +19,9 @@ tagline:
       <div class="article">
       	{{post.content}}
       </div>
-    </li>
-    <h3>
+  </div>
+{% endfor %}
 
-    	<a href="{{ BASE_PATH }}{{ post.url }}">→Read On</a>
-    </h3>
-  
-    <br />
-  {% endfor %}
-</ul>
 
 
 

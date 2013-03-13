@@ -14,7 +14,6 @@ h1 {
 nav {
 	padding-top: 20px;
 	margin-left: -25px;
-	margin-bottom: 30px;
 	font-size: 15px;
 }
 nav li {
@@ -41,6 +40,10 @@ html, body {
 .span12, .container{
 	width: 800px;
 }
+.posts{
+	padding: 30px 0;
+	border-bottom: 2px solid #ddd;
+}
 .span8{
 	width: 600px;
 	margin-left: 40px;
@@ -58,16 +61,12 @@ html, body {
 
 /* The white background content wrapper */
 .content {
-	border-top: 1px solid #d1d1d1;
   background-color: #fff;
-  padding: 20px;
+  padding: 0 20px;
   margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
   -webkit-border-radius: 0 0 6px 6px;
      -moz-border-radius: 0 0 6px 6px;
           border-radius: 0 0 6px 6px;
-  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
-     -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
-          box-shadow: 0 1px 2px rgba(0,0,0,.15);
 }
 
 /* Page header tweaks */
@@ -109,11 +108,7 @@ html, body {
 	border:1px solid #4C964D;
 	color:#FFF;
 }
-.article{
-	height: 430px;
-	width: 775px;
-	overflow: hidden;
-}
+
 .discovery{
 	height: 0px;
 	overflow: hidden;
@@ -127,3 +122,4 @@ html, body {
 	height: 0px;
 	overflow: hidden;
 }
+
