@@ -79,3 +79,12 @@ You can try :
 	$ heroku keys:add
 
 It may work sometimes, through i don't know the reason really.
+
+----------------------------------------------------------------------
+
+
+#### 查看日志
+
+	$ heroku logs
+
+对于那种只出现一条`We're sorry, but something went wrong.`的错误然后又不知道哪里出错时，查看heroku logs就十分有用了
