@@ -3,7 +3,7 @@ layout: post
 title: "Deploy your app to Heroku"
 description: ""
 category: 
-tags: [Heroku]
+tags: [heroku]
 ---
 {% include JB/setup %}
 
