@@ -8,7 +8,7 @@ tagline:
 
 
 
-{% for post in site.posts %}
+{% for post in site.posts limit:2 %}
   <div class="posts">
       <h2>
       	<a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
@@ -23,6 +23,7 @@ tagline:
 {% endfor %}
 
 
+<h2><a href="/archive.html"> >>Read more.</a></h2>
 
 
 
