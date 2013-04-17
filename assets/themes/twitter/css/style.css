@@ -55,6 +55,12 @@ p{
 	padding: 30px 0;
 	border-bottom: 2px solid #ddd;
 }
+.posts .article a{
+	color: #999999;
+}
+.posts .article a:hover{
+	color: black;
+}
 .article{
 	margin-top: 10px;
 }
