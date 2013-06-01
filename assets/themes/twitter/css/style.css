@@ -34,8 +34,8 @@ nav i {
 	margin-top: 8px;
 }
 
-html, body {
-
+html, body li{
+	line-height: 25px;
 }
 p{
 	font-size: 14px;
