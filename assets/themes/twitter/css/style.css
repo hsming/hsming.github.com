@@ -36,9 +36,10 @@ nav i {
 
 html, body li{
 	line-height: 25px;
+	font-size: 1.1em;
 }
 p{
-	font-size: 14px;
+	font-size: 1.1em;
 	line-height: 2;
 }
 .navbar {
