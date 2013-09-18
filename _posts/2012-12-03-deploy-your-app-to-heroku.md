@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deploy your app to Heroku"
-description: ""
+description: "Deploy rails app to Heroku"
 category: 
 tags: [heroku]
 ---
