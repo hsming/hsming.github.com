@@ -2,7 +2,6 @@
 layout: post
 title: "Hello World"
 ---
-{% include JB/setup %}
 
 The first blog here. Congratulations.
 Uh, the style is default still, after all it works well. 

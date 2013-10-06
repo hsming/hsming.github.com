@@ -2,7 +2,6 @@
 layout: post
 title: "Deploy your app to Heroku"
 ---
-{% include JB/setup %}
 
 #### First:
 
