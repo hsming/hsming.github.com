@@ -6,6 +6,12 @@
       display: block;
       width: auto;
       text-align: left; }
+    header {
+      display: none;
+    }
+    footer {
+      display: none;
+    }
     body #container #ind-instagram, body #container #ind-linkedin {
       display: none; }
     body #container .links, body #container .content {
