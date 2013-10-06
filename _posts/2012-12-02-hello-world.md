@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Hello World"
-description: "The first blog."
-category: 
-tags: [balabala]
 ---
 {% include JB/setup %}
 

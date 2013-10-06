@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Deploy your app to Heroku"
-description: "Deploy rails app to Heroku"
-category: 
-tags: [heroku]
 ---
 {% include JB/setup %}
 
