@@ -54,7 +54,7 @@ title: "CoffeeScript 学习笔记"
       alert 'of age'
 当然，还有更紧凑的写法直接把它们都写在一行内：`if age < 18 then alert 'Under age' else alert 'of age'`  
 还有coffeescrip和javascript中操作符的差别：  
-![](http://m3.img.libdd.com/farm5/2013/0604/10/AF942A3070DE58C1EBF0032302066B4EE212E1302E9B5_500_430.jpg)  
+![img](http://m3.img.libdd.com/farm5/2013/0604/10/AF942A3070DE58C1EBF0032302066B4EE212E1302E9B5_500_430.jpg)  
 可见coffeescript移除了js中`==`那样宽松的，强制类型转化的等于检查，改成全部用`===`进行严格比较。  
 coffeescript同样支持`unless`式的判断。  
 coffeescript中用`switch .. when .. then ..`代替javascript中的`switch .. case .. return ..`  
